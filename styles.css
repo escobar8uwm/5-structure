@@ -1,3 +1,20 @@
 html{
-    background-color: coral;
+    background-color: rgb(169, 234, 255);
+}
+
+body{
+    margin:0;
+}
+
+h1{
+    margin:0;
+}
+
+.main-header {
+    background-color: burlywood;
+    padding:30px;
+}
+
+.circle-list{
+    list-style: circle;
 }
