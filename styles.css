@@ -1,5 +1,5 @@
 html{
-    background-color: rgb(169, 234, 255);
+    background-color: hsl(180, 5%, 96%);
 }
 
 body{
@@ -10,6 +10,11 @@ h1{
     margin:0;
 }
 
+.branded-border{
+    border-bottom: 5px dotted white;
+    padding-bottom: 10px;
+}
+
 .main-header {
     background-color: burlywood;
     padding:30px;
@@ -17,4 +22,31 @@ h1{
 
 .circle-list{
     list-style: circle;
+    color: aliceblue;
 }
+
+.vibernums-header{
+    background-color: hwb(155 6% 39%);
+    padding: 20px;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+
+.vibernums-main{
+    padding: 20px;
+    color: cornsilk;
+    background-color: #2e4900;
+    margin-bottom: 20px;
+
+}
+
+.sub-header {
+    font-size: 20px;
+}
+
+.vibernums-footer{
+    padding: 20px;
+    background-color: darkseagreen;
+    font-size: x-small;
+}
+
