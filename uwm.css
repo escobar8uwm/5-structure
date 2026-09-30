@@ -1,0 +1,36 @@
+html{
+    background-color: hsl(180, 5%, 96%);
+}
+
+body{
+    margin:0;
+}
+
+h1{
+    margin:0;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.main-header {
+    background-color: #ffea00;
+    padding:30px;
+    margin-bottom: 10px;
+}
+
+.uwm-main {
+    background-color: rgb(171, 158, 13);
+    color: aliceblue;
+    padding: 20px;
+}
+
+.uwm-footer{
+    background-color: black;
+    color: darkkhaki;
+}
+
+.break{
+    break-after: auto;
+}
